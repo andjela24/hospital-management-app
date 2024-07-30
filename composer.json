@@ -1,0 +1,18 @@
+{
+    "name": "petar/vbis-framework2023",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "dobrasin-brkovic"
+        }
+    ],
+    "require": {
+        "ext-json": "*",
+        "ext-mysqli": "*",
+      "ext-cassandra": "*"
+    }
+}
